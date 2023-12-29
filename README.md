@@ -42,4 +42,4 @@ This project is a real-time driver drowsiness detection system implemented using
 Clone the repository:
 
 ```bash
-git clone https://github.com/SHAMSUNDAR20/driver-drowsiness-detection.git
+git clone https://github.com/SHAMSUNDAR20/Driver-drowsiness-Detection-using-Haar-Cascade-Algorithm-in-Deep-Learning.git

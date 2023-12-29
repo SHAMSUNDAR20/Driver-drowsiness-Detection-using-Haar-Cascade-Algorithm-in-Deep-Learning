@@ -12,7 +12,7 @@ model.add(MaxPooling2D((1,1)))
 model.add(Conv2D(64 , (3,3) , activation = 'relu'))
 model.add(MaxPooling2D((1,1)))
  
-model.add(Flatten())
+
  
 model.add(Dense(128, activation = 'relu'))
  
